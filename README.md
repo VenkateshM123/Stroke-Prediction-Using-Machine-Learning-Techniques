@@ -1,1 +1,1 @@
-# Brain Stroke-Prediction-Using-Machine-Learning-Techniques
+# Detection of Foliar Disease in Apple Leaves Using Deep-Learning-Techniques
